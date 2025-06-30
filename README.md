@@ -52,7 +52,7 @@ I'm a Computer Science student at Universitas Gadjah Mada, passionate about buil
 - 🌐 Website: [wibilaksono.vercel.app](https://wibilaksono.vercel.app)  
 - 📧 Email: [wibilaksonowijaya@mail.ugm.ac.id](mailto:wibilaksonowijaya@mail.ugm.ac.id)
 - 📧 Another Email: [wijayawibilaksono@gmail.com](mailto:wijayawibilaksono@gmail.com)  
-- 💼 LinkedIn: [Wibi Laksono Wijaya](https://www.linkedin.com/in/wibi-laksono-wijaya)  
+- 💼 LinkedIn: [Wibi Laksono Wijaya](https://www.linkedin.com/in/wibi-laksono-wijaya-4139672b6)  
 - 💻 GitHub: [@WibiLaksono](https://github.com/WibiLaksono)
 
 ---
